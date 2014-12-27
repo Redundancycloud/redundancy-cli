@@ -3,7 +3,12 @@ redundancy-cli
 
 ![Image of R2](https://raw.githubusercontent.com/squarerootfury/redundancy/Lenticularis/nys/Views/img/logoWithText.png)
 
-Core client library to communicate with Redundancy servers.
+CLI application to communicate with a Redundancy server.
+
+Functions
+=========
+
+* Base functions (upload, download, delete, list...)
 
 Requirements
 ============
